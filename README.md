@@ -1,2 +1,3 @@
-# sc.viewpoints
-观点。
+# 观点
+
+
